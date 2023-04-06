@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### name: Half-year calendar
-### uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
