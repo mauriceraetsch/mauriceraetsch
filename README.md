@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- :START -->
-<!-- :END -->
+![Metrics](/github-metrics.svg)
