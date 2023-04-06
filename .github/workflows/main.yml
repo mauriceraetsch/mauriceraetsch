@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: mauriceraetsch/@latest
+      - uses: mauriceraetsch/metrics@latest
         with:
           token: ${{ secrets.METRICS_SECRET }}
